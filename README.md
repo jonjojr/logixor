@@ -12,3 +12,8 @@ a story only has two states. it's either true or false.
 Vision References
 
 A or B
+
+## Pages
+
+https://jonjojr.github.io/junimation.github.io/
+
