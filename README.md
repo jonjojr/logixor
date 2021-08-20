@@ -15,5 +15,5 @@ A or B
 
 ## Pages
 
-https://jonjojr.github.io/junimation.github.io/
+https://jonjojr.github.io/logixor.github.io/
 
