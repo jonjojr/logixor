@@ -5,13 +5,13 @@
 
 ## Vision Statement
 
-a story only has two states. it's either true or false.
+the best learning algorithm is your algorithm
 
 ## References
 
 Vision References
 
-A or B but no AB
+AorB but not AnB
 
 ## Pages
 
